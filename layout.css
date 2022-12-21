@@ -1,0 +1,28 @@
+#samson{
+    width: 200px;
+    height: 60px;
+    background-color: aqua;
+    /* border: 2px;
+    border-color: red;
+    border-style: dashed; */
+    /* border-left: 2px solid green;
+    border;right:2px double red;
+    border-top: 2px dotted black;
+    border-bottom: 2px dashed #000;*/
+    border: 4px solid;
+    border: none ;
+}
+
+#background{
+    color: aliceblue;
+    height: 1200px;
+    width: 1200px;
+    border: 2px solid brown;
+    background-position: center;
+    background-image: url(https://www.istockphoto.com/resources/images/PhotoFTLP/P1-DEC-iStock-1147586607.jpg);
+    text-align: center;
+    background-size: cover;
+
+
+
+}
